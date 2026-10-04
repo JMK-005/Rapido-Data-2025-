@@ -1,4 +1,3 @@
-<img width="1538" height="870" alt="Screenshot 2026-10-02 210058" src="https://github.com/user-attachments/assets/4a6b5651-1407-4c16-ab9b-bc16a19d6757" />
 <img width="1542" height="905" alt="Screenshot 2026-10-02 210136" src="https://github.com/user-attachments/assets/ef5a2a65-9a1c-4fae-8553-dae0666562c5" />
 # Rapido-Data-2025-
 🛺 Rapido Ride Booking & Revenue Analysis Dashboard
